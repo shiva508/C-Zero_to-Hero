@@ -1,0 +1,8 @@
+--->The printf() and scanf() functions are used for input and output in C language. 
+Both functions are inbuilt library functions, defined in stdio.h (header file).
+*********************************printf()**********************************************
+--->The printf() function is used for output. It prints the given statement to the console.
+--->printf("format string",argument_list);  
+*********************************scanf()***********************************************
+--->The scanf() function is used for input. It reads the input data from the console.
+--->scanf("format string",argument_list); 
