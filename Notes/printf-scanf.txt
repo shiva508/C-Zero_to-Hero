@@ -6,3 +6,4 @@ Both functions are inbuilt library functions, defined in stdio.h (header file).
 *********************************scanf()***********************************************
 --->The scanf() function is used for input. It reads the input data from the console.
 --->scanf("format string",argument_list); 
+-->learn
